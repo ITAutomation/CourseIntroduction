@@ -1,5 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict/>
+<dict>
+	<key>ProjFilesArray</key>
+	<array>
+		<dict>
+			<key>DestPath</key>
+			<string>/Users/sadjadi/Documents/Briefcase4Masoud/Classes/IT Automation/Advanced IT Automation/2014-Fall/CourseIntroduction/CourseIntroduction.cmproj/recordings/1412617152.410530/Rec 10-6-14 3.trec</string>
+			<key>SourceInfoDict</key>
+			<dict>
+				<key>SourceInfoDict_SrcAliasData</key>
+				<data>
+				AAAAAALqAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADPk4D7SCsAAAKh+4QSUmVjIDEwLTYtMTQgMy50
+				cmVjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAqH7h9BYG6QAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAETE0MTI2MTcxNTIu
+				NDEwNTMwAAAQAAgAAM+TuTsAAAARAAgAANBYU+QAAAAB
+				ADACofuEAqHdOQKh3TgCodzTAqHOPAKhzjYAD9hUAA9O
+				TQANnrEACoOZAAqDlwACZyUAAgDVTWFjaW50b3NoIEhE
+				OlVzZXJzOgBzYWRqYWRpOgBEb2N1bWVudHM6AEJyaWVm
+				Y2FzZTRNYXNvdWQ6AENsYXNzZXM6AElUIEF1dG9tYXRp
+				b246AEFkdmFuY2VkIElUIEF1dG9tYXRpb246ADIwMTQt
+				RmFsbDoAQ291cnNlSW50cm9kdWN0aW9uOgBDb3Vyc2VJ
+				bnRyb2R1Y3Rpb24uY21wcm9qOgByZWNvcmRpbmdzOgAx
+				NDEyNjE3MTUyLjQxMDUzMDoAUmVjIDEwLTYtMTQgMy50
+				cmVjAAAOACYAEgBSAGUAYwAgADEAMAAtADYALQAxADQA
+				IAAzAC4AdAByAGUAYwAPABoADABNAGEAYwBpAG4AdABv
+				AHMAaAAgAEgARAASALxVc2Vycy9zYWRqYWRpL0RvY3Vt
+				ZW50cy9CcmllZmNhc2U0TWFzb3VkL0NsYXNzZXMvSVQg
+				QXV0b21hdGlvbi9BZHZhbmNlZCBJVCBBdXRvbWF0aW9u
+				LzIwMTQtRmFsbC9Db3Vyc2VJbnRyb2R1Y3Rpb24vQ291
+				cnNlSW50cm9kdWN0aW9uLmNtcHJvai9yZWNvcmRpbmdz
+				LzE0MTI2MTcxNTIuNDEwNTMwL1JlYyAxMC02LTE0IDMu
+				dHJlYwATAAEvAAAVAAIADv//AAA=
+				</data>
+				<key>SourceInfoDict_SrcPath</key>
+				<string>/Users/sadjadi/Documents/Briefcase4Masoud/Classes/IT Automation/Advanced IT Automation/2014-Fall/CourseIntroduction/CourseIntroduction.cmproj/recordings/1412617152.410530/Rec 10-6-14 3.trec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>DestPath</key>
+			<string>/Users/sadjadi/Documents/Briefcase4Masoud/Classes/IT Automation/Advanced IT Automation/2014-Fall/CourseIntroduction/CourseIntroduction.cmproj/recordings/1412617152.410733/Rec 10-6-14 4.trec</string>
+			<key>SourceInfoDict</key>
+			<dict>
+				<key>SourceInfoDict_SrcAliasData</key>
+				<data>
+				AAAAAALqAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADPk4D7SCsAAAKh+4USUmVjIDEwLTYtMTQgNC50
+				cmVjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAqH7idBYHQUAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAETE0MTI2MTcxNTIu
+				NDEwNzMzAAAQAAgAAM+TuTsAAAARAAgAANBYVUUAAAAB
+				ADACofuFAqHdOQKh3TgCodzTAqHOPAKhzjYAD9hUAA9O
+				TQANnrEACoOZAAqDlwACZyUAAgDVTWFjaW50b3NoIEhE
+				OlVzZXJzOgBzYWRqYWRpOgBEb2N1bWVudHM6AEJyaWVm
+				Y2FzZTRNYXNvdWQ6AENsYXNzZXM6AElUIEF1dG9tYXRp
+				b246AEFkdmFuY2VkIElUIEF1dG9tYXRpb246ADIwMTQt
+				RmFsbDoAQ291cnNlSW50cm9kdWN0aW9uOgBDb3Vyc2VJ
+				bnRyb2R1Y3Rpb24uY21wcm9qOgByZWNvcmRpbmdzOgAx
+				NDEyNjE3MTUyLjQxMDczMzoAUmVjIDEwLTYtMTQgNC50
+				cmVjAAAOACYAEgBSAGUAYwAgADEAMAAtADYALQAxADQA
+				IAA0AC4AdAByAGUAYwAPABoADABNAGEAYwBpAG4AdABv
+				AHMAaAAgAEgARAASALxVc2Vycy9zYWRqYWRpL0RvY3Vt
+				ZW50cy9CcmllZmNhc2U0TWFzb3VkL0NsYXNzZXMvSVQg
+				QXV0b21hdGlvbi9BZHZhbmNlZCBJVCBBdXRvbWF0aW9u
+				LzIwMTQtRmFsbC9Db3Vyc2VJbnRyb2R1Y3Rpb24vQ291
+				cnNlSW50cm9kdWN0aW9uLmNtcHJvai9yZWNvcmRpbmdz
+				LzE0MTI2MTcxNTIuNDEwNzMzL1JlYyAxMC02LTE0IDQu
+				dHJlYwATAAEvAAAVAAIADv//AAA=
+				</data>
+				<key>SourceInfoDict_SrcPath</key>
+				<string>/Users/sadjadi/Documents/Briefcase4Masoud/Classes/IT Automation/Advanced IT Automation/2014-Fall/CourseIntroduction/CourseIntroduction.cmproj/recordings/1412617152.410733/Rec 10-6-14 4.trec</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>DestPath</key>
+			<string>/Users/sadjadi/Documents/Briefcase4Masoud/Classes/IT Automation/Advanced IT Automation/2014-Fall/CourseIntroduction/CourseIntroduction.cmproj/recordings/1412617390.729708/Rec 10-6-14 5.trec</string>
+			<key>SourceInfoDict</key>
+			<dict>
+				<key>SourceInfoDict_SrcAliasData</key>
+				<data>
+				AAAAAALqAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADPk4D7SCsAAAKh/KMSUmVjIDEwLTYtMTQgNS50
+				cmVjAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAqH8pdBYTIUAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAETE0MTI2MTczOTAu
+				NzI5NzA4AAAQAAgAAM+TuTsAAAARAAgAANBYhMUAAAAB
+				ADACofyjAqHdOQKh3TgCodzTAqHOPAKhzjYAD9hUAA9O
+				TQANnrEACoOZAAqDlwACZyUAAgDVTWFjaW50b3NoIEhE
+				OlVzZXJzOgBzYWRqYWRpOgBEb2N1bWVudHM6AEJyaWVm
+				Y2FzZTRNYXNvdWQ6AENsYXNzZXM6AElUIEF1dG9tYXRp
+				b246AEFkdmFuY2VkIElUIEF1dG9tYXRpb246ADIwMTQt
+				RmFsbDoAQ291cnNlSW50cm9kdWN0aW9uOgBDb3Vyc2VJ
+				bnRyb2R1Y3Rpb24uY21wcm9qOgByZWNvcmRpbmdzOgAx
+				NDEyNjE3MzkwLjcyOTcwODoAUmVjIDEwLTYtMTQgNS50
+				cmVjAAAOACYAEgBSAGUAYwAgADEAMAAtADYALQAxADQA
+				IAA1AC4AdAByAGUAYwAPABoADABNAGEAYwBpAG4AdABv
+				AHMAaAAgAEgARAASALxVc2Vycy9zYWRqYWRpL0RvY3Vt
+				ZW50cy9CcmllZmNhc2U0TWFzb3VkL0NsYXNzZXMvSVQg
+				QXV0b21hdGlvbi9BZHZhbmNlZCBJVCBBdXRvbWF0aW9u
+				LzIwMTQtRmFsbC9Db3Vyc2VJbnRyb2R1Y3Rpb24vQ291
+				cnNlSW50cm9kdWN0aW9uLmNtcHJvai9yZWNvcmRpbmdz
+				LzE0MTI2MTczOTAuNzI5NzA4L1JlYyAxMC02LTE0IDUu
+				dHJlYwATAAEvAAAVAAIADv//AAA=
+				</data>
+				<key>SourceInfoDict_SrcPath</key>
+				<string>/Users/sadjadi/Documents/Briefcase4Masoud/Classes/IT Automation/Advanced IT Automation/2014-Fall/CourseIntroduction/CourseIntroduction.cmproj/recordings/1412617390.729708/Rec 10-6-14 5.trec</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
 </plist>
